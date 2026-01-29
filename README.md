@@ -1,5 +1,8 @@
 ## Ex. No: 3  DHCP Configuration Using a Router
-Date:
+Date:29.01.2026
+
+## Name: Saranya V
+## Register Number: 212223040188
 ________________________________________
 # Objective
 To configure a router to automatically assign IP addresses to client PCs using the Dynamic Host Configuration Protocol (DHCP).
@@ -65,6 +68,9 @@ ________________________________________
 •	DHCP IP configuration shown in PC0 and PC1<br>
 •	Router configuration screen<br>
 •	Successful ping test between the two PCs<br>
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/9eb379d4-cabe-4931-9208-e60f874568bc" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/99b1ee92-8447-40fb-9918-ee1e6a983bc3" />
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
